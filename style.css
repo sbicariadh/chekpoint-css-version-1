@@ -1,0 +1,40 @@
+li  {
+    display: inline;
+
+
+}
+ul {
+    justify-content: space-around;
+}
+.nav{
+    background-color: aqua;
+    
+}
+
+a:hover {
+    background-color: yellow;
+   
+
+}
+.introduction {
+    background-color: blue;
+    
+   
+    
+}
+
+
+#Projet {
+    margin :200px
+}
+  .foo {
+    padding: 200px;
+
+   
+
+    
+}
+
+
+
+
